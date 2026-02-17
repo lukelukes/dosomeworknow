@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 350px;
+  padding: 16px;
+  font-family: system-ui, sans-serif;
+}
+
+h1 {
+  font-size: 1.2rem;
+}

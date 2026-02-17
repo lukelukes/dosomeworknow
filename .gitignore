@@ -8,6 +8,8 @@ Thumbs.db
 /dist/
 /build/
 /out/
+/.output/
+/.wxt/
 
 /vendor/
 /node_modules/
